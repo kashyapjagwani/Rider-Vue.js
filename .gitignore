@@ -3,6 +3,9 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
+src/components/firebaseConfig.js
+src/components/firebaseInit.js
+package-lock.json
 
 # Editor directories and files
 .idea
